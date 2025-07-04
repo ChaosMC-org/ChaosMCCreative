@@ -1,0 +1,4 @@
+name: ChaosMCCreative
+version: '${version}'
+main: xyz.lncvrt.chaosmccreative.ChaosMCCreative
+api-version: '1.21'
